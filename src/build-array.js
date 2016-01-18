@@ -8,6 +8,6 @@ module.exports = function(length, val){
   }
 
   return arr.map(function(){
-    return val
+    return val;
   });
 };
